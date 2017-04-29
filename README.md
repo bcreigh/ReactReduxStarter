@@ -1,4 +1,5 @@
 # ReactReduxStarter
+This is a starter React Redux project with Bootstrap.
 
 ### Getting Started
 
